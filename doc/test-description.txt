@@ -1,0 +1,8 @@
+test_1 - Single item success
+test_2 - Single item failure (not enough cost)
+test_3 - Single item failure (too much weight)
+test_4 - Multiple items success
+test_5 - Multiple items finding optimal solution
+test_6 - No items
+test_7 - Invalid instance (missing minCost)
+test_8 - Invalid instance (empty input)
